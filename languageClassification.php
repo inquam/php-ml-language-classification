@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php declare(strict_types=1);
 namespace dliPHPML;
 ini_set("memory_limit", "-1");
