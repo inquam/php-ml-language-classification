@@ -5,3 +5,5 @@ Article about the small project: https://www.linkedin.com/pulse/language-classif
 
 # Example
 > ./languageClassification.php "Hello everyone" "Hur mycket är klockan?" "Wie viel kostet dieser Computer?" "El toro" "min computer starter ikke, og det gør mig skør"
+
+Note that the script does not use all available languages. That is overwritten further down the script to speed training up.
