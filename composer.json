@@ -1,0 +1,27 @@
+{
+	"name": "inquam/php-ml-language-classification",
+    "type": "project",
+    "description": "Language classification proof-of-concept using PHP-ML",
+    "keywords": [
+        "machine learning",
+        "pattern recognition",
+        "neural network",
+        "computational learning theory",
+        "artificial intelligence",
+        "data science",
+        "feature extraction"
+    ],
+	"authors": [
+        {
+            "name": "Daniel Liljeberg",
+            "email": "daniel.liljeberg@danielliljeberg.se"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.7.0",
+        "nesbot/carbon": "^2.4",
+        "stichoza/google-translate-php": "v4.0.1",
+        "ext-json": "*",
+        "ext-curl": "*"
+    }
+}

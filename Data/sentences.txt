@@ -1,0 +1,1635 @@
+﻿Hello
+Hi there
+Howdy
+Bye
+Bye-bye
+See ya later
+Take care
+Have a good one
+Yeah
+How are you?
+How’s it going?
+How ya doin’?
+How are things?
+How’s life?
+How have you been?
+How’s your family?
+What’s up?
+What’s new?
+What have you been up to lately?
+I’m fine, thanks. How about you?
+Pretty good.
+Not bad.
+Great!
+Couldn’t be better!
+Can’t complain.
+I’ve been busy.
+Same as always.
+Not so great.
+Could be better.
+Thanks.
+Thanks a lot.
+Thank you so much.
+Thanks a million!
+Thanks for your help.
+I really appreciate it.
+I’m really grateful.
+That’s so kind of you.
+I can’t thank you enough.
+I owe you one.
+You’re welcome.
+No problem.
+No worries.
+Don’t mention it.
+My pleasure.
+Anytime.
+It was the least I could do.
+Glad to help.
+Sure!
+Thank you.
+I’m sorry that I was so rude yesterday
+It’s my fault.
+Oops, sorry.
+I should have called you and told you I’d be late
+I apologize for the delay 
+That’s OK.
+It happens.
+No problem.
+Don’t worry about it.
+I forgive you.
+I just wanted to introduce myself.
+I don’t think we’ve met before.
+This is great
+I’d like you to meet my parents
+Have you met him?
+I’d like to introduce you to her
+Nice to meet you.
+It’s a pleasure to meet you.
+Likewise.
+And you.
+Really?
+That’s interesting.
+Uh-huh.
+Right.
+Gotcha.
+Sure.
+It was nice chatting with you.
+Well, it’s getting late.
+Anyway, I should get going.
+Sorry, but I’m afraid I need to…
+I’m sorry to cut you off, but I actually gotta run.
+Hi, this is Jane.
+May I speak with John Smith?
+Is John there?
+I’m calling about…
+I’m returning your call.
+One moment, please.
+Hang on a sec.
+He’s not here. Would you like to leave a message?
+Could you ask him to call me back?
+Thanks for calling.
+Can you tell me where to find a computer store?
+Could you tell me the way to the buss station?
+I'd like to know when the package will arrive?
+Do you know where the store is located?
+Do you have any idea when dinner will be ready?
+Could anyone tell me what time it is?
+Would you happen to know where I put my mobile phone?
+I don't suppose you would know when the buss arrives?
+I was wondering how much a ticket is?
+I’m calling to find out when the show starts?
+I have no idea.
+I can’t help you there.
+Beats me.
+I’m not really sure.
+I’ve been wondering that, too.
+What do you think about having potatoes for dinner?
+How do you feel about moving to another city?
+What's your opinion of Windows 10?
+What are your views on centralized data storage?
+In my opinion Linux is a great operating system.
+I'd say you should try it.
+Personally, I believe ghosts are not real.
+If you ask me, I will tell you.
+The way I see it free food is good food.
+From my point of view you are missing the point.
+I’ve never given it much thought.
+I don’t have strong feelings either way.
+It doesn’t make any difference to me.
+I have no opinion on the matter.
+Whatever.
+Exactly.
+Absolutely.
+That’s so true.
+That’s for sure.
+I agree 100%
+I couldn’t agree with you more.
+That’s exactly what I think.
+That’s exactly how I feel.
+Tell me about it
+You’re telling me!
+I’ll say!
+I suppose so.
+I don’t think so.
+I beg to differ.
+I’m afraid I don’t agree.
+I’m not so sure about that.
+That’s not how I see it.
+Not necessarily.
+Yes, but I like candy.
+On the contrary.
+No way!
+I totally disagree.
+Congratulations!
+That’s great!
+How wonderful!
+Awesome!
+I’m so happy for you!
+Oh no.
+That’s terrible.
+Poor you.
+I’m so sorry to hear that.
+I’m sorry for your loss.
+Are you free Saturday night?
+Are you doing anything Saturday night?
+Let me check my calendar.
+Do you wanna see a movie?
+Would you like to join me for dinner?
+I’d love to!
+Sounds great!
+I’d love to, but I have another commitment.
+I don’t think I can.
+Maybe another time.
+Would you like a drink?
+Do you want some water?
+Can I get you something to eat?
+That’d be great, thanks.
+No, thanks. I’m OK.
+I’m going to buy a new computer.
+I’m planning to move to another city.
+I hope to buy a house one day.
+I’d like to have children one day.
+I love soccer.
+I’m really into soccer.
+I live for soccer.
+soccer is my thing.
+I’m crazy about soccer
+I’m not a huge fan of modern art.
+Modern art isn’t my cup of tea.
+I don’t really care for modern art.
+I’m not into modern art.
+I can’t stand modern art.
+How about trying something new?
+Why don’t you talk to your boss?
+Maybe we should do more research.
+I’d recommend going to the doctor.
+Have you thought about buying a new computer?
+Where do you work?
+What do you do?
+What do you do for a living?
+I work at Microsoft.
+I’m an accountant.
+I’m unemployed.
+I’m between jobs at the moment.
+I’m looking for work.
+I’m a stay-at-home mom
+I’m a stay-at-home dad.
+I run my own business.
+I’m a freelance designer.
+I’m retired.
+I’m single.
+I have a boyfriend
+I have a girlfriend.
+We’re engaged.
+We’re getting married in June.
+I’m married.
+I’ve been married for years.
+I’m divorced.
+I’m widowed.
+I’m not looking for anything serious.
+I’m not quite over my ex.
+Pardon?
+Would you mind repeating that?
+What do you mean?
+I’m not sure I follow you.
+Could you explain what you said earlier?
+Do you understand what I’m saying?
+Does that make sense?
+Do you know what I mean?
+Are you with me so far?
+Is that clear?
+I need a little help.
+Could you help me out?
+Could you give me a hand?
+Could you spare a couple minutes?
+Could you do me a favor?
+Would you mind opening the window?
+Could you please turn off the lights?
+Can you pass me the chicken?
+Please send me the information.
+I’d appreciate it if you could wash the dishes.
+Sorry to interrupt, but we have to go now.
+Could I talk to you for a minute?
+I just want to say that I'm sorry.
+May I have a word?
+Keep up the good work!
+That was a nice try.
+That’s a real improvement.
+You’re on the right track.
+You’ve almost got it.
+You’re doing great.
+Don’t give up!
+Hang in there!
+You can do it!
+Give it your best shot.
+Nice job!
+You did great!
+I’m not happy about this.
+I’m sorry, but this is unacceptable.
+I’m not very satisfied with this product.
+I can’t stand it when the internet is slow.
+This sucks.
+I’ll always remember this.
+I’ll never forget this.
+If I remember correctly I liked it.
+As far as I can recall I didn't like it.
+I have a vague recollection of the smell.
+It’s on the tip of my tongue.
+My mind went blank.
+It doesn’t ring a bell.
+Please remember to take out the trash.
+Please don’t forget to feed the dog.
+I’d like to remind you about picking up the package.
+You haven’t forgotten to feed the cat have you?
+It completely slipped my mind!
+It’s a piece of cake.
+It’s a cinch.
+It’s a breeze.
+Anyone can do it.
+There’s nothing to it.
+It’s hard.
+It’s a bit tricky.
+It’s really tough.
+It’s not a walk in the park.
+It’s very demanding.
+She’s in her early twenties.
+He’s in his late thirties.
+She just turned six.
+Act your age!
+I’m not as young as I used to be.
+I’m not over the hill yet!
+He’s no spring chicken.
+She’s wise beyond her years.
+I’m having a senior moment.
+He lived to a ripe old age.
+Do you have… ?
+Where can I find… ?
+I’m just browsing.
+I’m looking for…
+How much is this?
+Is this on sale?
+Can I try it on?
+I’ll take it!
+Do you take credit cards?
+I’d like to exchange this.
+I’m starving!
+Let’s grab a bite to eat.
+How about eating out tonight?
+I brought some snacks.
+This soup is delicious!
+I’ll have the pasta.
+Could we get the check, please?
+I’m full.
+I’m stuffed.
+Where’s the remote?
+Is there anything good on?
+Can I change the channel?
+I’ve already seen this episode.
+This is a rerun.
+I love this show!
+There are too many commercials.
+Stop channel-surfing.
+Check the TV guide.
+It’s the season finale!
+Do you have any bags to check?
+Would you like a window seat or an aisle seat?
+Here’s your boarding pass.
+Your flight leaves from gate 15.
+Your seat number is 8F.
+Flight is now boarding.
+Your flight has been delayed.
+Your flight has been canceled.
+This is the final call for flight 800.
+What is the purpose of your trip?
+It cost a fortune.
+It cost an arm and a leg.
+That’s a rip-off.
+I can’t afford it.
+That’s a bit pricey.
+That’s quite reasonable.
+It’s off.
+That’s a good deal.
+It was a real bargain.
+It was dirt cheap.
+It’s nice and warm today.
+It’s absolutely boiling!
+We’re having a real heat wave.
+The sun’s really strong today.
+It’s hot and humid.
+It’s a little chilly.
+It’s freezing.
+The temperature’s dropping.
+Make sure to bundle up.
+We’re expecting some winter weather.
+It’s drizzling.
+It’s pouring.
+It’s raining cats and dogs.
+I got caught in a downpour.
+I think the rain’s letting up.
+I’m exhausted.
+I’m dead tired.
+I’m pooped.
+I’m spent.
+I’m beat.
+I can hardly keep my eyes open.
+I’m off to bed.
+I’m gonna hit the sack.
+It’s bedtime for me.
+I really should get some sleep.
+I promise that I’ll be on time.
+I won’t be late.
+No matter what happens, I’m going to…
+Come hell or high water, I’ll…
+Sorry I’m late.
+I overslept.
+My alarm didn’t go off.
+I had to wait ages for a bus.
+The bus was late.
+The traffic was terrible.
+I couldn’t find a parking spot.
+I got lost coming here.
+I was tied up in a meeting.
+I just lost track of time.
+That’s right.
+That’s spot on.
+You’ve hit the nail on the head.
+I suppose so.
+I’m afraid you’re right.
+I’m afraid that’s not quite right.
+I’m afraid you’re mistaken.
+No, you’ve got it wrong.
+No, that’s all wrong.
+He’s really sharp.
+She’s brilliant.
+He’s very bright.
+She’s a genius.
+He’s a smart cookie.
+He’s not the sharpest tool in the shed.
+She’s a few cards short of a deck.
+He’s a bit slow.
+She’s a complete idiot.
+He’s really dumb.
+No comment.
+I’m not at liberty to say.
+Wait and see.
+Let me get back to you.
+I’m sorry, that’s confidential.
+I’m sorry, that’s personal.
+I’d rather not talk about it.
+It’s none of your business.
+Mind your own business.
+Why do you want to know?
+He’s short on cash.
+He’s broke.
+His bank account is overdrawn.
+He’s just scraping by.
+He makes minimum wage.
+He’s pinching pennies.
+He’s scrimping and saving.
+She’s very wealthy.
+She’s quite well-off.
+She’s loaded.
+She’s filthy rich.
+She inherited a fortune.
+She’s making a killing.
+She’s raking in the cash.
+She’s rolling in dough.
+The crime rate rose.
+The crime rate went up.
+There was a sharp increase in crime.
+There was a gradual rise in crime.
+There was a spike in crime.
+The crime rate reached its peak.
+The crime rate plateaued.
+There was a slight decrease in crime.
+The crime rate dropped.
+The crime rate plummeted.
+She was born to dance.
+He’s a natural.
+She could do it in her sleep.
+He knows it inside out.
+She knows New York like the back of her hand.
+She’s a walking encyclopedia of philosophy.
+He’s in a class of his own.
+He’s the best in the business.
+She’s very gifted.
+He’s a chemistry whiz.
+Could you give me a minute?
+Let me see.
+I'll be right with you.
+Bear with me.
+That’ll have to wait.
+Be patient.
+Not so fast!
+Hold your horses!
+If I had to take a guess, I’d say she’s about years old.
+It’s difficult to say, but I think our customers are more satisfied.
+Off the top of my head, I’d say the company has employees.
+It’s about miles away.
+It’s around three hours long.
+I wouldn’t be surprised if Peter asks Jill to marry him.
+There’s a good chance it’ll rain tomorrow.
+I have a feeling the boss won’t be happy about this.
+I bet he’ll be late.
+Your guess is as good as mine.
+I’m debating between option A and option B
+I can’t make up my mind.
+I’m on the fence.
+I’ll take that into consideration.
+On the other hand it's not that expensive.
+I’m having second thoughts.
+I changed my mind.
+He persuaded me to move in with him.
+Looking back, I know it was the right decision.
+It’s up to you.
+Good luck!
+Better luck next time.
+Just my luck!
+Lucky you!
+That was a stroke of luck.
+Some people have all the luck.
+As luck would have it…
+He’s down on his luck.
+No such luck.
+What rotten luck!
+I’m scared that I will not have enough money.
+I can’t help thinking that I forgot something.
+It’s been keeping me up at night.
+What if it isn't true?
+Thank goodness!
+What a relief!
+You had me worried for a moment.
+You have no idea what a relief it is.
+That’s a huge load off my mind.
+It’ll happen any day now.
+It’s right around the corner.
+It will arrive in the near future.
+It won’t happen in our lifetime.
+It’s a sign of things to come.
+I’m counting down the days until…
+It’s bound to happen eventually.
+I’ll get around to it.
+I’ll do it right away.
+Time will tell.
+You look amazing!
+What a beautiful necklace!
+I like your haircut.
+The lasagna is delicious.
+You’re a fantastic cook.
+My compliments to the chef!
+What a nice apartment!
+You have a beautiful home.
+She’s so cute!
+Your kids are a lot of fun.
+I’m absolutely sure.
+I’m positive that she feels the same way.
+I have no doubt that he will bring the package.
+I’m a hundred percent certain.
+I’m convinced that they are telling the truth.
+Chances are that the package will be broken on delivery.
+Odds are that there are no seats left.
+I seriously doubt it.
+I don’t think so.
+Probably not.
+It’s not very likely.
+There’s not much chance of that.
+I’d be very surprised if that happened.
+I wouldn’t bet on it.
+That’ll never happen.
+It’s fascinating.
+It’s intriguing.
+I couldn’t tear myself away.
+I couldn’t put it down.
+I was so into it, I lost track of time.
+It does nothing for me.
+I was bored to tears.
+I was bored to death.
+I was dying of boredom.
+It’s about as exciting as watching paint dry.
+What’s the matter?
+What’s wrong?
+Are you all right?
+You look a bit down.
+Is there anything I can do to help?
+Cheer up!
+It’s not so bad.
+Everything will be OK.
+Look on the bright side.
+It’s not the end of the world.
+What a pity!
+What a shame.
+How disappointing.
+That’s too bad.
+Bummer.
+It was a real letdown.
+It didn’t live up to my expectations.
+Yeah, right.
+You're kidding.
+You're pulling my leg.
+That's a bit of an exaggeration.
+He’s stretching the truth.
+He’s not telling the whole truth.
+She’s being economical with the truth.
+His story is fishy.
+That's an outright lie.
+That's a pack of lies.
+He’s a creep.
+He’s a pervert.
+He’s a sicko.
+He’s a scumbag.
+He’s an asshole.
+He’s a jerk.
+He’s a bastard.
+She’s a bitch.
+She’s a psycho.
+She’s a slut.
+He yelled.
+She screamed.
+I whispered.
+We chatted.
+He mumbled.
+My kids whined.
+He rambled.
+She stammered.
+I snapped at my husband.
+He muttered.
+She was beaming.
+The kids were smiling from ear to ear.
+He looked puzzled.
+She grinned.
+He winced when the doctor gave him an injection.
+She gave me a dirty look.
+She blushed.
+His eyes were glazed over.
+Why the long face?
+Her expression was unreadable.
+They got off on the wrong foot.
+He got on the teacher’s bad side.
+She took offense at his comment.
+He has a chip on his shoulder.
+She got bent out of shape.
+He left in a huff.
+She got her panties in a wad.
+He has a short fuse.
+She dissed my mother.
+He got his nose out of joint.
+My flight was overbooked.
+My flight was delayed.
+My luggage was lost.
+I was jet-lagged.
+My hotel was in a seedy area.
+I was mugged.
+The weather was miserable.
+I got the runs.
+The place was a tourist trap.
+I couldn’t wait to get back home.
+It’s on me.
+I’d like to make a toast.
+Here’s to our success!
+Another round of drinks, please.
+Put it on my tab.
+He’s a bit tipsy.
+He’s completely wasted.
+She’s trying to drown her sorrows.
+I’m the designated driver.
+I had a hangover.
+It’s as light as a feather.
+It’s as dry as a bone.
+It’s as flat as a pancake.
+He’s as mad as a hornet.
+It’s as old as the hills.
+It’s as quick as lightning.
+She’s as sick as a dog.
+He’s as strong as an ox.
+They’re as different as night and day.
+She’s as stubborn as a mule.
+He’s as proud as a peacock.
+She’s as white as a sheet.
+It’s as solid as a rock.
+It’s as good as new.
+It’s as clear as mud.
+I would like to check out.
+It has become much cooler.
+It's time you went to bed.
+No spitting on the street.
+She was totally exhausted.
+Show your tickets，please.
+Thank you for your advice.
+That's the latest fashion.
+The train arrived on time.
+There go the house lights.
+They are paid by the hour.
+Things are getting better.
+Wake me up at five thirty.
+We are all busy with work.
+Where do you want to meet?
+You can get what you want.
+A barking dog doesn't bite!
+Are you free this Saturday?
+Be careful not to fall ill.
+Being a mother is not easy.
+Brevity is the soul of wit.
+Cancer is a deadly disease.
+Did you fight with others?
+Don't dream away your time.
+Don't keep me waiting long.
+He has a remarkable memory.
+He has completed the task.
+He has quite a few friends.
+He is capable of any crime.
+He walks with a quick pace.
+He was not a little tired.
+His looks are always funny.
+How about going to a movie?
+I think I've caught a cold.
+I was taking care of Sally.
+I wish I lived in NEWYORK.
+I'm very glad to hear that.
+I'm your lucky fellow then.
+It's none of your business!
+No littering on the campus.
+She is a good-looking girl.
+She mended the broken doll.
+So I just take what I want.
+Spring is a pretty season，
+The figure seems all Right.
+The stars are too far away.
+The whole world knows that.
+Tomorrow will be a holiday.
+We walk on the garden path.
+What you need is just rest.
+What's your favorite steps?
+You'd better let her alone.
+A lost chance never returns.
+Don't let this get you down.
+He shot the lion with a gun.
+I don't think you are right.
+I have never seen the movie.
+I haven't seen you for ages.
+I was alone，but not lonely.
+I went there three days ago.
+It's a friendly competition.
+It's very thoughtful of you.
+May I speak to Lora，please?
+Mr.Wang is fixing his bike.
+My brother is seeking a job.
+Nancy will retire next year.
+Neither you nor he is wrong.
+Opportunity knocks but once.
+She dressed herself hastily.
+She hired a car by the hour.
+Someone is ringing the bell.
+The Smiths are my neighbors.
+These shoes don't fit right.
+This is only the first half.
+This pen doesn't write well.
+Would you like a cup of tea?
+You really look sharp today.
+Another cat came to my house.
+Check your answers with mine.
+Don't keep the truth from me.
+Everything has its beginning.
+He came to the point at once.
+He fell behind with his work.
+He is the happiest man alive.
+He neither smokes nor drinks.
+He ran his horse up the hill.
+He reminds me of his brother.
+He was efficient in his work.
+He will do anything but work.
+His father runs a restaurant.
+I have something to tell you.
+I smelled a smell of cooking.
+I want to see the film again.
+I've got too much work to do.
+Let's go for a walk, shall we?
+Please let me check the bill.
+Plenty of sleep is healthful.
+The sun comes up in the east.
+This is because we feel pain.
+What do you desire me to do?
+What you said was quite true.
+You can either stay or leave.
+Your life is your own affair.
+All that glitters is not gold.
+Are you going to have a party?
+Aren't you concerned about it?
+Don't forget to keep in touch.
+He broke his words once again.
+He is in his everyday clothes.
+He is taller than I buy ahead.
+He led them down the mountain.
+He was trained to be a lawyer.
+I am afraid that l have to go.
+I don't have any cash with me.
+I have been putting on weight.
+I have just finished the book.
+I was late for work yesterday，
+It appears to be a true story.
+I've got to start working out.
+Japanis to the east of China.
+John asked Grace to marry him，
+My watch is faster than yours.
+New China was founded in l949.
+Thanks for your flattering me.
+They charged the fault on him.
+This car is in good condition
+This work itself is very easy.
+Truth is the daughter of time.
+We look forward to your visit.
+What do you think of this one?
+What's the weather like to day?
+A red tie will match that suit
+A wet road is usually slippery.
+Example is better than precept.
+Go right back to the beginning.
+He does everything without aim.
+He is respectful to his elders.
+He knows English better than I.
+He resolved to give up smoking.
+His talk covered many subjects.
+I fear that he drinks too much.
+I have my hair cut every month.
+I want to have a part-time job.
+I'm sorry to have bothered you.
+It is not so easy as you think.
+Keep your temper under control.
+Lying and stealing are immoral.
+My efforts resulted in nothing.
+My false teeth are stuck to it.
+She is a composer for the harp.
+Take me to the airport please.
+Talking with you is a pleasure.
+The eggs are sold by the dozen.
+The price just covers the cost.
+The sweater is of good quality.
+The teacher got a little angry.
+Think carefully before you act.
+Walt invented the steam engine.
+We are divided in our opinions.
+Whatever I said he'd disagree.
+Whoever comes will be welcomed.
+You look as if you didn't care.
+You should look at it yourself.
+Draw your chair up to the table.
+He covered himself with a quilt.
+He found my lecture interesting.
+He had a good many friends here.
+He is only about five feet high.
+Her family are all music lovers.
+I am busy.
+How is your business?
+I don't think much of the movie.
+I feel like eating an ice-cream.
+I found him seated on the bench.
+I gave much time to the old car.
+I lost the door key about here.
+I'm not guessing I really know.
+It's time to tell her the truth.
+Let's watch TV with a candle on.
+Most games cost about that much.
+My parents want me to go abroad.
+She has been collecting stamps.
+There are many stars in the sky.
+We get to London this afternoon.
+What about having a pizza first?
+You'd better look before you leap.
+You know what I'm talking about.
+He has been sick for three weeks.
+He inspected the car for defects.
+I count you as one of my friends
+I go to school by bike every day.
+I have a large collection of CDs.
+I won't be able to see him today.
+I'll call a taxi in case of need.
+Is there any sugar in the bottle?
+It's a secret between you and me.
+It's very kind of you to help me.
+Let's divide the cake into three.
+Patience is a mark of confidence.
+Susan is going to finish college.
+That is my idea about friendship.
+The book you ask for is sold out.
+The boy was too nervous to speak.
+The play may begin at any moment.
+The salve will heal slight burns.
+The sea sparkled in the sunlight.
+The teacher tested us in English.
+There is a bridge over the river.
+They rode their respective bikes.
+They will arrive in half an hour.
+Time is more valuable than money.
+We are all in favor of this plan.
+We reached London this afternoon.
+We two finished a bottle of wine.
+what a lovely little girl she is!
+Will you pick me up at my place?
+You may choose whatever you like.
+You're suffering from an allergy?
+Beyond all questions you are right.
+But I plan to weed the yard today.
+But who will do all the house work?
+Close the door after you please.
+Come to see me whenever you like.
+Don't pull the chairs about, boys!
+He drives more carefully than you.
+He invited me to dinner yesterday.
+He struck his attacker on the ear.
+He suddenly appeared in the party.
+Her handbag goes with her clothes.
+Here we are Row M, seats l and 3.
+His boss might get angry with him.
+I expect to be there this evening.
+I really need to lose some weight.
+I think you have the Wrong number.
+I would rather stay at home alone.
+I'd like to look at some sweaters.
+Its origin is still a mystery now.
+Money is no more than our servant.
+Once you begin you must continue.
+She is poor but quite respectable.
+She spent a lot of money on books.
+The girl in red is his girlfriend.
+There is a chair below the window.
+They employed him as a consultant.
+To be honest with you I'm twenty.
+We often call him by his nickname.
+Will you be free tomorrow evening?
+Would you like to leave a message?
+You can never turn the clock back.
+You may as well tell me the truth.
+Are your grandparents still living?
+Can you recognize that woman Mary?
+Do you have any suggestions for me?
+He is tough but I am even tougher.
+He made his way through the forest.
+He suggests you leave here at once.
+He was married to a friend of mine.
+He will blame you for carelessness.
+I can give you a number of excuses.
+I don't doubt that he will help me.
+I hope you enjoy your stay with us.
+I'd like to-repair our differences.
+It's nothing to be surprised about.
+It's rude to stare at other people.
+Bob has always had a crush on Lucy.
+Let's take a short break for lunch.
+Linda speaks as if she were a boss.
+She became more and morebeautiful.
+Suppose it rains, what shall we do?
+The book is protected by copyright.
+The ice is hard enough to skate on.
+The price includes postage charges.
+This is a little something for you.
+What he likes best is making jokes.
+Who but Jack would do such a thing?
+You should have a mind of your own.
+You will soon get used to the work.
+Columbus discovered America inl492.
+God helps those who he1pthemselves.
+He has a nice sum of money putaway.
+He is heavily insured against death.
+He used to learn everything by wrote.
+He's a terrible man when he's angry.
+I am on my way to the grocery store.
+I am sick of always waiting for you!
+The birch canoe slid on the smooth planks.
+Glue the sheet to the dark blue background.
+It's easy to tell the depth of a well.
+These days a chicken leg is a rare dish.
+Rice is often served in round bowls.
+The juice of lemons makes fine punch.
+The box was thrown beside the parked truck.
+The hogs were fed chopped corn and garbage.
+Four hours of steady work faced us.
+Large size in stockings is hard to sell.
+The boy was there when the sun rose.
+A rod is used to catch pink salmon.
+The source of the huge river is the clear spring.
+Kick the ball straight and follow through.
+Help the woman get back to her feet.
+A pot of tea helps to pass the evening.
+Smoky fires lack flame and heat.
+The soft cushion broke the man's fall.
+The salt breeze came across from the sea.
+The girl at the booth sold fifty bonds.
+The small pup gnawed a hole in the sock.
+The fish twisted and turned on the bent hook.
+Press the pants and sew a button on the vest.
+The swan dive was far short of perfect.
+The beauty of the view stunned the young boy.
+Two blue fish swam in the tank.
+Her purse was full of useless trash.
+The colt reared and threw the tall rider.
+It snowed, rained, and hailed the same morning.
+Read verse out loud for pleasure.
+Hoist the load to your left shoulder.
+Take the winding path to reach the lake.
+Note closely the size of the gas tank.
+Wipe the grease off his dirty face.
+Mend the coat before you go out.
+The wrist was badly strained and hung limp.
+The stray cat gave birth to kittens.
+The young girl gave no clear response.
+The meal was cooked before the bell rang.
+What joy there is in living.
+A king ruled the state in the early days.
+The ship was torn apart on the sharp reef.
+Sickness kept him home the third week.
+The wide road shimmered in the hot sun.
+The lazy cow lay in the cool grass.
+Lift the square stone over the fence.
+The rope will bind the seven books at once.
+Hop over the fence and plunge in.
+The friendly gang left the drug store.
+Mesh wire keeps chicks inside.
+The frosty air passed through the coat.
+The crooked maze failed to fool the mouse.
+Adding fast leads to wrong sums.
+The show was a flop from the very start.
+A saw is a tool used for making boards.
+The wagon moved on well oiled wheels.
+March the soldiers past the next hill.
+A cup of sugar makes sweet fudge.
+Place a rosebush near the porch steps.
+Both lost their lives in the raging storm.
+We talked of the slide show in the circus.
+Use a pencil to write the first draft.
+He ran half way to the hardware store.
+The clock struck to mark the third period.
+A small creek cut across the field.
+Cars and busses stalled in snow drifts.
+The set of china hit, the floor with a crash.
+This is a grand season for hikes on the road.
+The dune rose from the edge of the water.
+Those words were the cue for the actor to leave.
+A yacht slid around the point into the bay.
+The two met while playing on the sand.
+The ink stain dried on the finished page.
+The walled town was seized without a fight.
+The lease ran out in sixteen weeks.
+A tame squirrel makes a nice pet.
+The horn of the car woke the sleeping cop.
+The heart beat strongly and with firm strokes.
+The pearl was worn in a thin silver ring.
+The fruit peel was cut in thick slices.
+The Navy attacked the big task force.
+See the cat glaring at the scared mouse.
+There are more than two factors here.
+The hat brim was wide and too droopy.
+The lawyer tried to lose his case.
+The grass curled around the fence post.
+Cut the pie into large parts.
+Men strive but seldom get rich.
+Always close the barn door tight.
+He lay prone and hardly moved a limb.
+The slush lay deep along the street.
+A wisp of cloud hung in the blue air.
+A pound of sugar costs more than eggs.
+The fin was sharp and cut the clear water.
+The play seems dull and quite stupid.
+Bail the boat, to stop it from sinking.
+The term ended in late June that year.
+A tusk is used to make costly gifts.
+Ten pins were set in order.
+The bill as paid every third week.
+Oak is strong and also gives shade.
+Cats and dogs each hate the other.
+The pipe began to rust while new.
+Open the crate but don't break the glass.
+Add the sum to the product of these three.
+Thieves who rob friends deserve jail.
+The ripe taste of cheese improves with age.
+Act on these orders with great speed.
+The hog crawled under the high fence.
+Move the vat over the hot fire.
+The bark of the pine tree was shiny and dark.
+Leaves turn brown and yellow in the fall.
+The pennant waved when the wind blew.
+Split the log with a quick, sharp blow.
+Burn peat after the logs give out.
+He ordered peach pie with ice cream.
+Weave the carpet on the right hand side.
+Hemp is a weed found in parts of the tropics.
+A lame back kept his score low.
+We find joy in the simplest things.
+Type out three lists of orders.
+The harder he tried the less he got done.
+The boss ran the show with a watchful eye.
+The cup cracked and spilled its contents.
+Paste can cleanse the most dirty brass.
+The slang word for raw whiskey is booze.
+It caught its hind paw in a rusty trap.
+The wharf could be seen at the farther shore.
+Feel the heat of the weak dying flame.
+The tiny girl took off her hat.
+A cramp is no small danger on a swim.
+He said the same phrase thirty times.
+Pluck the bright rose without leaves.
+Two plus seven is less than ten.
+The glow deepened in the eyes of the sweet girl.
+Bring your problems to the wise chief.
+Write a fond note to the friend you cherish.
+Clothes and lodging are free to new men.
+We frown when events take a bad turn.
+Port is a strong wine with s smoky taste.
+The young kid jumped the rusty gate.
+Guess the results from the first scores.
+A salt pickle tastes fine with ham.
+The just claim got the right verdict.
+These thistles bend in a high wind.
+Pure bred poodles have curls.
+The tree top waved in a graceful way.
+The spot on the blotter was made by green ink.
+Mud was spattered on the front of his white shirt.
+The cigar burned a hole in the desk top.
+The empty flask stood on the tin tray.
+A speedy man can beat this track mark.
+He broke a new shoelace that day.
+The coffee stand is too high for the couch.
+The urge to write short stories is rare.
+The pencils have all been used.
+The pirates seized the crew of the lost ship.
+We tried to replace the coin but failed.
+She sewed the torn coat quite neatly.
+The sofa cushion is red and of light weight.
+The jacket hung on the back of the wide chair.
+At that high level the air is pure.
+Drop the two when you add the figures.
+A filing case is now hard to buy.
+An abrupt start does not win the prize.
+Wood is best for making toys and blocks.
+The office paint was a dull sad tan.
+He knew the skill of the great young actress.
+A rag will soak up spilled water.
+A shower of dirt fell from the hot pipes.
+Steam hissed from the broken valve.
+The child almost hurt the small dog.
+There was a sound of dry leaves outside.
+The sky that morning was clear and bright blue.
+Torn scraps littered the stone floor.
+Sunday is the best part of the week.
+The doctor cured him with these pills.
+The new girl was fired today at noon.
+They felt gay when the ship arrived in port.
+Add the store's account to the last cent.
+Acid burns holes in wool cloth.
+Fairy tales should be fun to write.
+Eight miles of woodland burned to waste.
+The third act was dull and tired the players.
+A young child should not suffer fright.
+Add the column and put the sum here.
+We admire and love a good cook.
+There the flood mark is ten inches.
+He carved a head from the round block of marble.
+She has st smart way of wearing clothes.
+The fruit of a fig tree is apple-shaped.
+Corn cobs can be used to kindle a fire.
+Where were they when the noise started.
+The paper box is full of thumb tacks.
+Sell your gift to a buyer at a good gain.
+The tongs lay beside the ice pail.
+The petals fall with the next puff of wind.
+Bring your best compass to the third class.
+They could laugh although they were sad.
+Farmers came in to thresh the oat crop.
+The brown house was on fire to the attic.
+The lure is used to catch trout and flounder.
+Float the soap on top of the bath water.
+A blue crane is a tall wading bird.
+A fresh start will work such wonders.
+The club rented the rink for the fifth night.
+After the dance they went straight home.
+The hostess taught the new maid to serve.
+He wrote his last novel there at the inn.
+Even the worst will beat his low score.
+The cement had dried when he moved it.
+The loss of the second ship was hard to take.
+The fly made its way along the wall.
+Do that with a wooden stick.
+Lire wires should be kept covered.
+The large house had hot water taps.
+It is hard to erase blue or red ink.
+Write at once or you may forget it.
+The doorknob was made of bright clean brass.
+The wreck occurred by the bank on Main Street.
+A pencil with black lead writes best.
+Coax a young calf to drink from a bucket.
+Schools for ladies teach charm and grace.
+The lamp shone with a steady green flame.
+They took the axe and the saw to the forest.
+The ancient coin was quite dull and worn.
+The shaky barn fell with a loud crash.
+Jazz and swing fans like fast music.
+Rake the rubbish up and then burn it.
+Slash the gold cloth into fine ribbons.
+Try to have the court decide the case.
+They are pushed back each time they attack.
+He broke his ties with groups of former friends.
+They floated on the raft to sun their white backs.
+The map had an X that meant nothing.
+Whitings are small fish caught in nets.
+Some ads serve to cheat buyers.
+Jerk the rope and the bell rings weakly.
+A waxed floor makes us lose balance.
+Madam, this is the best brand of corn.
+On the islands the sea breeze is soft and mild.
+The play began as soon as we sat down.
+This will lead the world to more sound and fury
+Add salt before you fry the egg.
+The rush for funds reached its peak Tuesday.
+The birch looked stark white and lonesome.
+The box is held by a bright red snapper.
+To make pure ice, you freeze water.
+The first worm gets snapped early.
+Jump the fence and hurry up the bank.
+Yell and clap as the curtain slides back.
+They are men nho walk the middle of the road.
+Both brothers wear the same size.
+In some forin or other we need fun.
+The prince ordered his head chopped off.
+The houses are built of red clay bricks.
+Ducks fly north but lack a compass.
+Fruit flavors are used in fizz drinks.
+These pills do less good than others.
+Canned pears lack full flavor.
+The dark pot hung in the front closet.
+Carry the pail to the wall and spill it there.
+The train brought our hero to the big town.
+We are sure that one war is enough.
+Gray paint stretched for miles around.
+The rude laugh filled the empty room.
+High seats are best for football fans.
+Tea served from the brown jug is tasty.
+A dash of pepper spoils beef stew.
+A zestful food is the hot-cross bun.
+The horse trotted around the field at a brisk pace.
+Find the twin who stole the pearl necklace.
+Cut the cord that binds the box tightly.
+The red tape bound the smuggled food.
+Look in the corner to find the tan shirt.
+The cold drizzle will halt the bond drive.
+Nine men were hired to dig the ruins.
+The junk yard had a mouldy smell.
+The flint sputtered and lit a pine torch.
+Soak the cloth and drown the sharp odor.
+The shelves were bare of both jam or crackers.
+A joy to every child is the swan boat.
+All sat frozen and watched the screen.
+ii cloud of dust stung his tender eyes.
+To reach the end he needs much courage.
+Shape the clay gently into block form.
+The ridge on a smooth surface is a bump or flaw.
+Hedge apples may stain your hands green.
+Quench your thirst, then eat the crackers.
+Tight curls get limp on rainy days.
+The mute muffled the high tones of the horn.
+The gold ring fits only a pierced ear.
+The old pan was covered with hard fudge.
+Watch the log float in the wide river.
+The node on the stalk of wheat grew daily.
+The heap of fallen leaves was set on fire.
+Write fast, if you want to finish early.
+His shirt was clean but one button was gone.
+The barrel of beer was a brew of malt and hops.
+Tin cans are absent from store shelves.
+Slide the box into that empty space.
+The plant grew large and green in the window.
+The beam dropped down on the workmen's head.
+Pink clouds floated JTith the breeze.
+She danced like a swan, tall and graceful.
+The tube was blown and the tire flat and useless.
+It is late morning on the old wall clock.
+Let's all join as we sing the last chorus.
+The last switch cannot be turned off.
+The fight will end in just six minutes.
+The store walls were lined with colored frocks.
+The peace league met to discuss their plans.
+The rise to fame of a person takes luck.
+Paper is scarce, so write with much care.
+The quick fox jumped on the sleeping cat.
+The nozzle of the fire hose was bright brass.
+Screw the round cap on as tight as needed.
+Time brings us many changes.
+The purple tie was ten years old.
+Men think and plan and sometimes act.
+Fill the ink jar with sticky glue.
+He smoke a big pipe with strong contents.
+We need grain to keep our mules healthy.
+Pack the records in a neat thin case.
+The crunch of feet in the snow was the only sound.
+The copper bowl shone in the sun's rays.
+Boards will warp unless kept dry.
+The plush chair leaned against the wall.
+Glass will clink when struck by metal.
+Bathe and relax in the cool green grass.
+Nine rows of soldiers stood in line.
+The beach is dry and shallow at low tide.
+The idea is to sew both edges straight.
+The kitten chased the dog down the street.
+Pages bound in cloth make a book.
+Try to trace the fine lines of the painting.
+Women form less than half of the group.
+The zones merge in the central part of town.
+A gem in the rough needs work to polish.
+Code is used when secrets are sent.
+Most of the new is easy for us to hear.
+He used the lathe to make brass objects.
+The vane on top of the pole revolved in the wind.
+Mince pie is a dish served to children.
+The clan gathered on each dull night.
+Let it burn, it gives us warmth and comfort.
+A castle built from sand fails to endure.
+A child's wit saved the day for us.
+Tack the strip of carpet to the worn floor.
+Next Tuesday we must vote.
+Pour the stew from the pot into the plate.
+Each penny shone like new.
+The man went to the woods to gather sticks.
+The dirt piles were lines along the road.
+The logs fell and tumbled into the clear stream.
+Just hoist it up and take it away,
+A ripe plum is fit for a king's palate.
+Our plans right now are hazy.
+Brass rings are sold by these natives.
+It takes a good trap to capture a bear.
+Feed the white mouse some flower seeds.
+The thaw came early and freed the stream.
+He took the lead and kept it the whole distance.
+The key you designed will fit the lock.
+Plead to the council to free the poor thief.
+Better hash is made of rare beef.
+This plank was made for walking on.
+The lake sparkled in the red hot sun.
+He crawled with care along the ledge.
+Tend the sheep while the dog wanders.
+It takes a lot of help to finish these.
+Mark the spot with a sign painted red.
+Take two shares as a fair profit.
+The fur of cats goes by many names.
+North winds bring colds and fevers.
+He asks no person to vouch for him.
+Go now and come here later.
+A sash of gold silk will trim her dress.
+Soap can wash most dirt away.
+That move means the game is over.
+He wrote down a long list of items.
+A siege will crack the strong defense.
+Grape juice and water mix well.
+Roads are paved with sticky tar.
+Fake &ones shine but cost little.
+The drip of the rain made a pleasant sound.
+Smoke poured out of every crack.
+Serve the hot rum to the tired heroes.
+Much of the story makes good sense.
+The sun came up to light the eastern sky.
+Heave the line over the port side.
+A lathe cuts and trims any wood.
+It's a dense crowd in two distinct ways.
+His hip struck the knee of the next player.
+The stale smell of old beer lingers.
+The desk was firm on the shaky floor.
+It takes heat to bring out the odor.
+Beef is scarcer than some lamb.
+Raise the sail and steer the ship northward.
+The cone costs five cents on Mondays.
+A pod is what peas always grow in.
+Jerk the dart from the cork target.
+No cement will hold hard wood.
+We now have a new base for shipping.
+The list of names is carved around the base.
+The sheep were led home by a dog.
+Three for a dime, the young peddler cried.
+The sense of smell is better than that of touch.
+No hardship seemed to keep him sad.
+Grace makes up for lack of beauty.
+Nudge gently but wake her now.
+The news struck doubt into restless minds.
+Once we stood beside the shore.
+A chink in the wall allowed a draft to blow.
+Fasten two pins on each side.
+A cold dip restores health and zest.
+He takes the oath of office each March.
+The sand drifts over the sill of the old house.
+The point of the steel pen was bent and twisted.
+There is a lag between thought and act.
+Seed is needed to plant the spring corn.
+Draw the chart with heavy black lines.
+The boy owed his pal thirty cents.
+The chap slipped into the crowd and was lost.
+Hats are worn to tea and not to dinner.
+The ramp led up to the wide highway.
+Beat the dust from the rug onto the lawn.
+Say it slow!y but make it ring clear.
+The straw nest housed five robins.
+Screen the porch with woven straw mats.
+This horse will nose his way to the finish.
+The dry wax protects the deep scratch.
+He picked up the dice for a second roll.
+These coins will be needed to pay his debt.
+The nag pulled the frail cart along.
+Twist the valve and release hot steam.
+The vamp of the shoe had a gold buckle.
+The smell of burned rags itches my nose.
+Xew pants lack cuffs and pockets.
+The marsh will freeze when cold enough.
+They slice the sausage thin with a knife.
+The bloom of the rose lasts a few days.
+A gray mare walked before the colt.
+Breakfast buns are fine with a hot drink.
+Bottles hold four kinds of rum.
+The man wore a feather in his felt hat.
+He wheeled the bike past. the winding road.
+Drop the ashes on the worn old rug.
+The desk and both chairs were painted tan.
+Throw out the used paper cup and plate.
+A clean neck means a neat collar.
+The couch cover and hall drapes were blue.
+The stems of the tall glasses cracked and broke.
+The wall phone rang loud and often.
+The clothes dried on a thin wooden rack.
+Turn on the lantern which gives us light.
+The cleat sank deeply into the soft turf.
+The bills were mailed promptly on the tenth of the month.
+To have is better than to wait and hope.
+The price is fair for a good antique clock.
+The music played on while they talked.
+Dispense with a vest on a day like this.
+The bunch of grapes was pressed into wine.
+He sent the figs, but kept the ripe cherries.
+The hinge on the door creaked with old age.
+The screen before the fire kept in the sparks.
+Fly by night, and you waste little time.
+Thick glasses helped him read the print.
+Birth and death mark the limits of life.
+The chair looked strong but had no bottom.
+The kite flew wildly in the high wind.
+A fur muff is stylish once more.
+The tin box held priceless stones.
+We need an end of all such matter.
+The case was puzzling to the old and wise.
+The bright lanterns were gay on the dark lawn.
+We don't get much money but we have fun.
+The youth drove with zest, but little skill.
+Five years he lived with a shaggy dog.
+A fence cuts through the corner lot.
+The way to save money is not to spend much.
+Shut the hatch before the waves push it in.
+The odor of spring makes young hearts jump.
+Crack the walnut with your sharp side teeth.
+He offered proof in the form of a lsrge chart.
+Send the stuff in a thick paper bag.
+A quart of milk is water for the most part.
+They told wild tales to frighten him.
+The three story house was built of stone.
+In the rear of the ground floor was a large passage.
+A man in a blue sweater sat at the desk.
+Oats are a food eaten by horse and man.
+Their eyelids droop for want. of sleep.
+The sip of tea revives his tired friend.
+There are many ways to do these things.
+Tuck the sheet under the edge of the mat.
+A force equal to that would move the earth.
+We like to see clear weather.
+The work of the tailor is seen on each side.
+Take a chance and win a china doll.
+Shake the dust from your shoes, stranger.
+She was kind to sick old people.
+The dusty bench stood by the stone wall.
+The square wooden crate was packed to be shipped.
+We dress to suit the weather of most days.
+Smile when you say nasty words.
+A bowl of rice is free with chicken stew.
+The water in this well is a source of good health.
+Take shelter in this tent, but keep still.
+That guy is the writer of a few banned books.
+The little tales they tell are false.
+The door was barred, locked, and bolted as well.
+Ripe pears are fit for a queen's table.
+A big wet stain was on the round carpet.
+The kite dipped and swayed, but stayed aloft.
+The pleasant hours fly by much too soon.
+The room was crowded with a wild mob.
+This strong arm shall shield your honor.
+She blushed when he gave her a white orchid.
+The beetle droned in the hot June sun.
+Press the pedal with your left foot.
+Neat plans fail without luck.
+The black trunk fell from the landing.
+The bank pressed for payment of the debt.
+The theft of the pearl pin was kept secret.
+Shake hands with this friendly child.
+The vast space stretched into the far distance.
+A rich farm is rare in this sandy waste.
+His wide grin earned many friends.
+Flax makes a fine brand of paper.
+Hurdle the pit with the aid of a long pole.
+A strong bid may scare your partner stiff.
+Even a just cause needs power to win.
+Peep under the tent and see the clowns.
+The leaf drifts along with a slow spin.
+Cheap clothes are flashy but don’t last.
+A thing of small note can cause despair.
+Flood the mails with requests for this book.
+A thick coat of black paint covered all.
+The pencil was cut to be sharp at both ends.
+Those last words were a strong statement.
+He wrote his name boldly at the top of tile sheet.
+Dill pickles are sour but taste fine.
+Down that road is the way to the grain farmer.
+Either mud or dust are found at all times.
+The best method is to fix it in place with clips.
+If you mumble your speech will be lost.
+At night the alarm roused him from a deep sleep.
+Read just what the meter says.
+Fill your pack with bright trinkets for the poor.
+The small red neon lamp went out.
+Clams are small, round, soft, and tasty.
+The fan whirled its round blades softly.
+The line where the edges join was clean.
+Breathe deep and smell the piny air.
+It matters not if he reads these words or those.
+A brown leather bag hung from its strap.
+A toad and a frog are hard to tell apart.
+A white silk jacket goes with any shoes.
+A break in the dam almost caused a flood.
+Paint the sockets in the wall dull green.
+The child crawled into the dense grass.
+Bribes fail where honest men work.
+Trample the spark, else the flames will spread.
+The hilt. of the sword was carved with fine designs.
+A round hole was drilled through the thin board.
+Footprints showed the path he took up the beach.
+She was waiting at my front lawn.
+A vent near the edge brought in fresh air.
+Prod the old mule with a crooked stick.
+It is a band of steel three inches wide.
+The pipe ran almost the length of the ditch.
+It was hidden from sight by a mass of leaves and shrubs.
+The weight. of the package was seen on the high scale.
+Wake and rise, and step into the green outdoors.
+The green light in the brown box flickered.
+The brass tube circled the high wall.
+The lobes of her ears were pierced to hold rings.
+Hold the hammer near the end to drive the nail.
+Next Sunday is the twelfth of the month.
+Every word and phrase he speaks is true.
+He put his last cartridge into the gun and fired.
+They took their kids from the public school.
+Drive the screw straight into the wood.
+Keep the hatch tight and the watch constant.
+Sever the twine with a quick snip of the knife.
+Paper will dry out when wet.
+Slide the catch back and open the desk.
+Help the weak to preserve their strength.
+A sullen smile gets few friends.
+Stop whistling and watch the boys march.
+Jerk the cord, and out tumbles the gold.
+Slidc the tray across the glass top.
+The cloud moved in a stately way and was gone.
+Light maple makes for a swell room.
+Set the piece here and say nothing.
+Dull stories make her laugh.
+A stiff cord will do to fasten your shoe.
+Get the trust fund to the bank early.
+Choose between the high road and the low.
+A plea for funds seems to come again.
+He lent his coat to the tall gaunt stranger.
+There is a strong chance it will happen once more.
+The duke left the park in a silver coach.
+Greet the new guests and leave quickly.
+When the frost has come it is time for turkey.
+Sweet words work better than fierce.
+A thin stripe runs down the middle.
+A six comes up more often than a ten.
+Lush fern grow on the lofty rocks.
+The ram scared the school children off.
+The team with the best timing looks good.
+The farmer swapped his horse for a brown ox.
+Sit on the perch and tell the others what to do.
+A steep trail is painful for our feet.
+The early phase of life moves fast.
+Green moss grows on the northern side.
+Tea in thin china has a sweet taste.
+Pitch the straw through the door of the stable.
+The latch on the beck gate needed a nail.
+The goose was brought straight from the old market.
+The sink is the thing in which we pile dishes.
+A whiff of it will cure the most stubborn cold.
+The facts don’t always show who is right.
+She flaps her cape as she parades the street.
+The loss of the cruiser was a blow to the fleet.
+Loop the braid to the left and then over.
+Plead with the lawyer to drop the lost cause.
+Calves thrive on tender spring grass.
+Post no bills on this office wall.
+Tear a thin sheet from the yellow pad.
+A cruise in warm waters in a sleek yacht is fun.
+A streak of color ran down the left edge.
+It was done before the boy could see it.
+Crouch before you jump or miss the mark.
+Pack the kits and don’t forget the salt.
+The square peg will settle in the round hole.
+Fine soap saves tender skin.
+Poached eggs and tea must suffice.
+Bad nerves are jangled by a door slam.
+Ship maps are different from those for planes.
+Dimes showered down from all sides.
+They sang the same tunes at each party.
+The sky in the west is tinged with orange red.
+The pods of peas ferment in bare fields.
+The horse balked and threw the tall rider.
+The hitch between the horse and cart broke.
+Pile the coal high in the shed corner.
+The gold vase is both rare and costly.
+The knife was hung inside its bright sheath.
+The rarest spice comes from the far East.
+The roof should be tilted at a sharp slant.
+A smatter of French is worse than none.
+The mule trod the treadmill day and night.
+The aim of the contest is to raise a great fund.
+To send it. now in large amounts is bad.
+There is a fine hard tang in salty air.
+Cod is the main business of the north shore.
+The slab was hewn from heavy blocks of slat’e.
+Dunk the stale biscuits into strong drink.
+Hang tinsel from both branches.
+Cap the jar with a tight brass cover.
+The poor boy missed the boat again.
+Be sure to set the lamp firmly in the hole.
+Pick a card and slip it. under the pack.
+A round mat will cover the dull spot.
+The first part of the plan needs changing.
+The good book informs of what we ought to know.
+The mail comes in three batches per day.
+You cannot brew tea in a cold pot.
+Dots of light betrayed the black cat.
+Put the chart on the mantel and tack it down.
+The night shift men rate extra pay.
+The red paper brightened the dim stage.
+See the player scoot to third base.
+Slide the bill between the two leaves.
+Many hands help get the job done.
+We don't like to admit our small faults.
+No doubt about the way the wind blows.
+Dig deep in the earth for pirate's gold.
+The steady drip is worse than a drenching rain.
+A flat pack takes less luggage space.
+Green ice frosted the punch bowl.
+A stuffed chair slipped from the moving van.
+The stitch will serve but needs to be shortened.
+A thin book fits in the side pocket.
+The gloss on top made it unfit to read.
+The hail pattered on the burnt brown grass.
+Seven seals were stamped on great sheets.
+Our troops are set to strike heavy blows.
+The store was jammed before the sale could start.
+It was a bad error on the part of the new judge.
+One step more and the board will collapse.
+Take the match and strike it against your shoe.
+The pot boiled, but the contents failed to jell.
+The baby puts his right foot in his mouth.
+The bombs left most of the town in ruins.
+Stop and stare at the hard working man.
+The streets are narrow and full of sharp turns.
+The pup jerked the leash as he saw a feline shape.
+Open your book to the first page.
+Fish evade the net, and swim off.
+Dip the pail once and let it settle.
+Will you please answer that phone.
+The big red apple fell to the ground.
+The curtain rose and the show was on.
+The young prince became heir to the throne.
+He sent the boy on a short errand.
+Leave now and you will arrive on time.
+The corner store was robbed last night.
+A gold ring will please most any girl.
+The long journey home took a year.
+She saw a cat in the neighbor's house.
+A pink shell was found on the sandy beach.
+Small children came to see him.
+The grass and bushes were wet with dew.
+The blind man counted his old coins.
+A severe storm tore down the barn.
+She called his name many times.
+When you hear the bell, come quickly.
