@@ -35,7 +35,7 @@ use Stichoza\GoogleTranslate\GoogleTranslate;
  */
  
  // Number of sentences to use for each language when training
- numSentences = 400;
+$numSentences = 400;
 
 srand();
 
@@ -174,7 +174,7 @@ foreach($dataSet['en'] as $sentenceChecksum => $sentence) {
 }
 
 if($sentencesToTranslate) {
-    $gt = new GoogleTranslate('en', 'en', ['curl' => [CURLOPT_SSL_VERIFYPEER => false],  'verify' => __DIR__ . '/Data/cacert.pem']);
+    $gt = new GoogleTranslate('en', 'en', ['curl' => [CURLOPT_SSL_VERIFYPEER => false],  'verify' => __DIR__ . '/data/cacert.pem']);
 
     // Loop each language and fetch translations for untranslated sentences
     foreach ($languages as $languageCode => $languageName) {
@@ -249,7 +249,7 @@ $pipeline = new Pipeline([
 ], new SVC(Kernel::RBF, 10000, 6));
 
 try {
-    if(file_exists('Data/model.dat')) {
+    if(file_exists('data/model.dat')) {
         echo "Loading model... ";
         $pipeline = $modelManager->restoreFromFile('Data/model.dat');
         echo "Done" . PHP_EOL;
